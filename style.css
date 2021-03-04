@@ -1,13 +1,22 @@
+h1{
+    color: #81905E;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+}
+
 table{
-	font-family: sans-serif;
-	border-collapse:collapse;
+    font-family: cursive;
+	border-collapse: inherit;
 	border-width: 3px;
-	border-style: solid;
+    border-style: double;
 	border-color: #81905E;
+    color: darkgreen;
 }
 
 th{
+    font-style: italic;
 	font-weight:600;
 	background-color: #81905E;
-	color: #ffffff;
+	color: azure;
 }
